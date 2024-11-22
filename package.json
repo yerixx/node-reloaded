@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yerixx/node-reloaded.git"
+    "url": "git+https://github.com/Divjason/node-reloaded.git"
   },
-  "author": "yerixxz",
+  "author": "David",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yerixx/node-reloaded/issues"
+    "url": "https://github.com/Divjason/node-reloaded/issues"
   },
-  "homepage": "https://github.com/yerixx/node-reloaded#readme",
+  "homepage": "https://github.com/Divjason/node-reloaded#readme",
   "dependencies": {
     "express": "^4.21.1",
     "morgan": "^1.10.0",
